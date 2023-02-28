@@ -1,11 +1,8 @@
-
+import MyRouter from './MyRouter';
 import './App.css';
 
 function App() {
-  return (
-   <>Hello!
-    </>
-  );
+    return (<MyRouter/>);
 }
 
 export default App;

@@ -1,0 +1,13 @@
+
+.nav {
+    width: 12rem;
+    background-color: #f7f7f7;
+    border-right: solid 1px #e3e3e3;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding: 0rem;
+
+
+
+}

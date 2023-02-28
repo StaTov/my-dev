@@ -1,0 +1,24 @@
+.navlist {
+
+    width: 100%;
+
+}
+
+
+.navlist a {
+
+    display: block;
+    padding: 15px 0px 10px 10px;
+    color: #1a1818;
+    font-size: 20px;
+    text-decoration: none;
+
+
+}
+
+.navlist a:hover {
+    color: #13a0f6;
+    padding-left: 20px;
+    background-color: #1a1818;
+
+}
